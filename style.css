@@ -24,3 +24,10 @@ list-style: none;
 gap: 28px;
 text-transform: uppercase;   
 }
+
+
+.navbar{
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+}
